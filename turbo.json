@@ -1,0 +1,1 @@
+{\n  \"pipeline\": {\n    \"dev\": {\n      \"dependsOn\": [\"^dev\"],\n      \"outputs\": []\n    },\n    \"build\": {\n      \"outputs\": [\"build\"]\n    },\n    \"lint\": {\n      \"outputs\": []\n    }\n  }\n}
